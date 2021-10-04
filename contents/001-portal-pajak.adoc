@@ -1,0 +1,88 @@
+== mPBB
+
+image::by-sa.png[pdfwidth=25%]
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/.
+
+=== Nama Layanan
+
+Aplikasi mPBB (_mobile_ PBB)
+
+=== Deskripsi layanan secara umum
+
+Layanan ini digunakan untuk memberikan kemudahan bagi wajib pajak untuk melihat ketetapan pajak bumi dan bangunan dari perangkat gawai pribadi.
+
+=== Detail Syarat dan Ketentuan Layanan
+
+Syarat dan ketentuan layanan dari aplikasi mPBB ini tersedia bagi seluruh masyarakat umum yang menggunakan gawai Android dengan versi minimal 4.1.
+
+=== Cakupan Pengguna
+
+Cakupan pengguna untuk layanan ini bagi seluruh masyarakat yang membutuhkan informasi tentang Pajak Bumi dan Bangunan Perdesaan dan Perkotaan di Kabupaten Brebes.
+
+=== Pengelola Layanan
+
+Pengelola layanan ini adalah fungsional pranata komputer di lingkungan internal Badan Pendapatan Daerah Kabupaten Brebes
+
+=== Waktu Berjalannya Layanan
+
+Layanan ini tersedia selama 24 jam setiap hari dan 7 hari dalam seminggu
+
+=== Referensi ke _template_ SLA (_Service Level Agreement_)
+
+Referensi _Service Level Agreement_ (SLA) untuk layanan ini merujuk ke dokumen https://github.com/tamami-bf/2021-sla-portal-pajak/blob/master/build/sla-layanan-ti.pdf
+
+=== _Notional Charging_
+
+Komponen biaya tetap dan biaya variabel untuk layanan ini masuk dalam biaya operasional Badan Pendapatan Daerah Kabupaten Brebes untuk Listrik dan langanan jasa internet.
+
+=== Proses Untuk Permintaan Layanan Teknologi Informasi
+
+Proses permintaan layanan teknologi informasi untuk aplikasi mPBB ini dilakukan dengan mengunduh langsung dari Google Play Store dengan pranala https://play.google.com/store/apps/details?id=com.aikibo.m_pbb
+
+=== Dampak operasional apabila terjadi gangguan
+
+Dampak operasional bila terjadi gangguan pada layanan ini mengakibatkan aplikasi tidak dapat digunakan untuk melihat informasi ketetapan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan di Kabupaten Brebes.
+
+=== Daftar Layanan Pendukung Layanan Utama 
+
+Layanan pendukung untuk layanan ini adalah :
+
+* Layanan SISMIOP Service
+* Layanan PBB Service
+
+=== Versi dan tanggal revisi 
+
+[cols="2,3", width="75%"]
+|===
+| Versi | Tanggal
+
+| 1.0 | 4 Oktober 2021
+|===
+
+<<<
+
+=== Lembar Persetujuan
+
+[cols="2,1,8", width="100%", frame=none, grid=none]
+|===
+| Nama Kegiatan | : | I.B.7 - Mengelola Katalog Layanan Pengguna
+| Judul | : | Katalog Layanan Pengguna - mPBB
+|===
+
+[cols="5,5", width="100%", frame=none, grid=none]
+|===
+^| Disetujui oleh : ^| Disusun Oleh
+^| Sekretaris ^| Selesai tanggal 4 Oktober 2021
+^| Pada tanggal 4 Oktober 2021 | 
+| |
+| |
+| |
+^| Drs. MOCH AGUS WAKHID, M.Kes ^| Priyanto Tamami, S.Kom
+^| 19661220 199203 1 004 ^| 19840409 201001 1 025
+|===
+
+
+
+
